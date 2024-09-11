@@ -36,8 +36,6 @@ Essa atividade comprende a construção de um Projeto de Componente de Software 
 - O sistema deve garantir a segurança dos dados dos funcionários, implementando mecanismos de autenticação, controle de acesso e criptografia das informações.
 - Deve estar em conformidade com as leis de proteção de dados e privacidade, como a Lei Geral de Proteção de Dados (LGPD) no Brasil, ou outras regulamentações aplicáveis.
  
-Ferramenta: como sugestão, você pode utilizar o software draw.io, disponível em https://app.diagrams.net/, para construção dos diagramas.
-----------------------------------------------
 
 Com base no que foi exposto e em seus conhecimentos sobre Projeto de Componente de Software baseado em classes, responda o que se pede:
 ​
